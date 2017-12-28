@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "testmod:blocks/blocktexture",
+    "down": "testmod:blocks/facedown",
+    "up": "testmod:blocks/faceup",
+    "east": "testmod:blocks/faceback",
+    "west": "testmod:blocks/facefront",
+    "north": "testmod:blocks/faceleft",
+    "south": "testmod:blocks/faceright"
+  }
+}

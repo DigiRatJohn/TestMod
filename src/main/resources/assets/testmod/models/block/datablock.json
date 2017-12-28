@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "testmod:blocks/blocktexture",
+    "down": "testmod:blocks/blocktexture",
+    "up": "testmod:blocks/blocktexture",
+    "east": "testmod:blocks/blocktexture",
+    "west": "testmod:blocks/blocktexture",
+    "north": "testmod:blocks/datablocktexture",
+    "south": "testmod:blocks/blocktexture"
+  }
+}

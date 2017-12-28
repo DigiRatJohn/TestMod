@@ -1,0 +1,22 @@
+{
+  "result": {
+    "item": "minecraft:chest",
+    "data": 0,
+    "count": 1
+  },
+  "type": "minecraft:crafting_shapeless",  
+  "ingredients": [
+    {        
+            "item": "testmod:testcontainerblock",
+            "data": 0                   
+    },
+    {        
+            "item": "testmod:testcontainerblock",
+            "data": 0                   
+    },
+    {        
+            "item": "testmod:testcontainerblock",
+            "data": 0                   
+    }
+  ] 
+}

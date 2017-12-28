@@ -1,0 +1,12 @@
+tile.testmod.datablock.name=Data Block
+tile.testmod.firstblock.name=First Block
+tile.testmod.blinkingblock.name=Blinking Block
+tile.testmod.testcontainerblock.name=Test Container Block
+
+message.testmod.counter=Counter:
+message.testmod.counter_par=Counter: %d
+
+item.testmod.firstitem.name=First Item
+
+key.categories.testmod=Test Mod
+key.test=Test Key

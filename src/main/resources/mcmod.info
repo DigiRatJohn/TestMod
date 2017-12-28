@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "testmod",
+  "name": "Test Mod",
+  "description": "Testing Mod For DigiRat.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Team DigiRat"],
+  "credits": "DigiRat",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
